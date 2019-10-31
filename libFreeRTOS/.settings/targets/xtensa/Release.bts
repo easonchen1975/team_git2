@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<BuildTarget version="1.0" tool="xtensa">
+    <BuildSettings>
+        <BaseSettings path="project">
+            <CompilerOptions>
+                <FlagValueMapOptions>
+                    <FlagValueMapEntry>
+                        <key>Debug</key>
+                        <value level="-3" flag="-g" use="true"/>
+                    </FlagValueMapEntry>
+                    <FlagValueMapEntry>
+                        <key>Optimization</key>
+                        <value level="2" flag="-O" use="true"/>
+                    </FlagValueMapEntry>
+                </FlagValueMapOptions>
+            </CompilerOptions>
+        </BaseSettings>
+    </BuildSettings>
+</BuildTarget>

@@ -1,0 +1,77 @@
+D:\usr\xtensa\XtDevTools\install\tools\RI-2019.2-win32\XtensaTools\bin\xt-run --xtensa-core=vp6_fpga --xtensa-system=D:\usr\xtensa\XtDevTools\install\builds\RI-2019.2-win32\vp6_fpga\config --xtensa-params= --console --mem_model --mlatency=10 --blockrepeat=10 --write_delay=10 --write_repeat=10 --icline=256 --icsize=65536 --icways=4 --dcline=16 --dcsize=1024 --dcways=1 --summary --client=D:\work\workspace_1\HelloWorld\bin\vp6_fpga\Debug\_gen_d\profile\cycles\Cache_cfg_0\iss.clientcmds D:\work\workspace_1\HelloWorld\bin\vp6_fpga\Debug\HelloWorld
+( ISS options ) *WARNING* --dcsize has no effect when data cache is not configured
+( ISS options ) *WARNING* --dcways has no effect when data cache is not configured
+( ISS options ) *WARNING* --dcline has no effect when data cache is not configured
+Hello World
+cycles = 144529
+cycles = 144529
+cycles = 144529
+cycles = 144529
+cycles = 144529
+cycles = 144529
+cycles = 144529
+cycles = 144529
+cycles = 144529
+cycles = 144529
+cycles = 144529
+cycles = 144529
+cycles = 144529
+cycles = 144529
+cycles = 144529
+cycles = 144529
+cycles = 144529
+cycles = 144529
+cycles = 144529
+cycles = 144529
+
+Xtensa Core: "vp6_fpga"  ISS Version: 14.02
+
+Time for Simulation = 33.13 seconds
+
+Current PC = 0x80127924
+
+Cache Configuration:
+  ICache: 65536 bytes (64KB), 4-way set associative, 256-byte line
+
+Events                            Number  Number
+                                          per 100
+                                          instrs 
+
+Committed instructions          1707750 ( 100.00 )
+Instruction fetches              565185 (  33.10 )
+   From IRAM                        140 (   0.01 )
+   ICache fetches                565045 (  33.09 )
+      ICache misses                  60 (   0.00 )  0.01% of ICache fetches
+Taken branches                    91924 (   5.38 )
+Exceptions                          737 (   0.04 )
+   WindowUnderflow                  368 (   0.02 )
+   WindowOverflow                   369 (   0.02 )
+Loads                            920333 (  53.89 )
+   Uncached                        5584 (   0.33 )
+   From IRAM                          8 (   0.00 )
+   From DRAM0                     81920 (   4.80 )
+   From DRAM1                    832821 (  48.77 )
+Stores                           255586 (  14.97 )
+   Uncached                        1497 (   0.09 )
+   To DRAM1                      254089 (  14.88 )
+PIF transfers (16 bytes each)      8041 (   0.47 )
+   IFetch reads                     960 (   0.06 )
+   Data reads                      5584 (   0.33 )
+   Data writes                     1497 (   0.09 )
+
+Cycles: total = 3075666
+                                                 Summed |          Summed
+                                         CPI      CPI   |% Cycle  % Cycle
+Committed instructions        1707750 ( 1.0000   1.0000 |  55.52    55.52 )
+Taken branches                 277978 ( 0.1628   1.1628 |   9.04    64.56 )
+Pipeline interlocks           1000909 ( 0.5861   1.7489 |  32.54    97.11 )
+ICache misses                    5068 ( 0.0030   1.7518 |   0.16    97.27 )
+Exceptions                       5159 ( 0.0030   1.7549 |   0.17    97.44 )
+Uncached loads                  77118 ( 0.0452   1.8000 |   2.51    99.95 )
+Sync replays                      518 ( 0.0003   1.8003 |   0.02    99.96 )
+Special instructions              988 ( 0.0006   1.8009 |   0.03    99.99 )
+Loop overhead                     101 ( 0.0001   1.8010 |   0.00   100.00 )
+Non-TIE global stalls              66 ( 0.0000   1.8010 |   0.00   100.00 )
+Reset                               7 ( 0.0000   1.8010 |   0.00   100.00 )
+Other                               4 ( 0.0000   1.8010 |   0.00   100.00 )
+

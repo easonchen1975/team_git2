@@ -1,0 +1,118 @@
+
+
+FREERTOS  V2.1== 
+
+
+1920*1080
+
+
+extern text idma
+appFramework	processData	946.220581	CPP	PASS
+total IDMA config transfer time =16412.578125
+
+
+tileCount =510
+Writing Output: data/Cars_1920x1080_out.pgm
+Total tiles: 510, Interrupt Count = 1022
+
+appFramework	processData	945.855042	CPP	PASS
+total IDMA config transfer time =10351.953125
+
+
+NO OS -- idma_text external ====
+tileCount =510
+Writing Output: data/Cars_1920x1080_out.pgm
+Total tiles: 510, Interrupt Count = 1022
+
+appFramework	processData	163.036285	CPP	PASS
+total IDMA config transfer time =3604.049072
+
+
+tileCount =510
+Writing Output: data/Cars_1920x1080_out.pgm
+Total tiles: 510, Interrupt Count = 1022
+
+appFramework	processData	163.037018	CPP	PASS
+total IDMA config transfer time =3874.919678
+
+
+
+FREERTOS  V1.7== 
+
+Writing Output: data/Cars_320x180_out.pgm
+Total tiles: 15, Interrupt Count = 32
+
+appFramework	processData	1563.118774	CPP	PASS
+total IDMA config transfer time =13027.000000
+
+
+
+appFramework	processData	945.896484	CPP	PASS
+total IDMA config transfer time =10053.425781
+
+  NON OS
+tileCount =507
+tileCount =508
+tileCount =509
+tileCount =510
+Writing Output: data/Cars_1920x1080_out.pgm
+Total tiles: 510, Interrupt Count = 1022
+total IDMA config transfer time =3950.239258
+
+
+ --RTOS clk  2000-> 5000
+Writing Output: data/Cars_1920x1080_out.pgm
+Total tiles: 510, Interrupt Count = 1022
+
+appFramework	processData	-883.275513	CPP	PASS
+total IDMA config transfer time =10938.750977
+
+
+Writing Output: data/Cars_1920x1080_out.pgm
+Total tiles: 510, Interrupt Count = 1022
+
+appFramework	processData	933.355469	CPP	FAIL
+total IDMA config transfer time =11443.159180
+
+
+Writing Output: data/Cars_1920x1080_out.pgm
+Total tiles: 510, Interrupt Count = 1022
+
+appFramework	processData	163.036667	CPP	FAIL
+total IDMA config transfer time =4022.364746
+
+
+===============================
+10/28 
+
+Freertos 2.0 
+Total tiles: 510, Interrupt Count = 1022
+
+appFramework	processData	945.850342	CPP	PASS
+total IDMA config transfer time =10066.923828
+
+
+
+FreertOS v17
+tileCount =510
+Writing Output: data/Cars_1920x1080_out.pgm
+Total tiles: 510, Interrupt Count = 1022
+
+appFramework	processData	-874.988037	CPP	FAIL
+total IDMA config transfer time =14475.615234
+
+
+
+
+NonOS 
+
+
+
+
+
+
+
+
+
+
+

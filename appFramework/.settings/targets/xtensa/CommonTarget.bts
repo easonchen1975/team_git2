@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<BuildTarget tool="xtensa" version="1.0">
+    <BuildSettings>
+        <BaseSettings path="project">
+            <CompilerOptions>
+                <SingleFlagMapOptions>
+                    <SingleFlagMapEntry>
+                        <key>WarningAsError</key>
+                        <value flag="-Werror" use="true"/>
+                    </SingleFlagMapEntry>
+                    <SingleFlagMapEntry>
+                        <key>WarningSetting</key>
+                        <value flag="-Wall" use="true"/>
+                    </SingleFlagMapEntry>
+                </SingleFlagMapOptions>
+            </CompilerOptions>
+            <LinkerOptions>
+                <BooleanMapOptions>
+                    <BooleanMapEntry>
+                        <key>GenerateMapFile</key>
+                        <value selected="true"/>
+                    </BooleanMapEntry>
+                </BooleanMapOptions>
+                <StringListMapOptions>
+                    <StringListMapEntry>
+                        <key>Libraries</key>
+                        <value flag="-l" inheritance="prepend">
+                            <ListEntry>idma-xtos</ListEntry>
+                        </value>
+                    </StringListMapEntry>
+                </StringListMapOptions>
+                <LinkerSupport custom="false" key="-mlsp=" value="sim-stacklocal"/>
+            </LinkerOptions>
+        </BaseSettings>
+    </BuildSettings>
+</BuildTarget>

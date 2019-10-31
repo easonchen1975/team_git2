@@ -1,0 +1,9 @@
+src: 0x8031ac80, dst, 0x00082f40, rowsize: 64, numRows: 64, srcPitch: 320, dstPitch: 64, flags: 0x80000000
+ dmaIndex: 1
+src: 0x8031acc0, dst, 0x00083f40, rowsize: 64, numRows: 64, srcPitch: 320, dstPitch: 64, flags: 0x80000000
+ dmaIndex: 2
+src: 0x000c0e80, dst, 0x80120400, rowsize: 64, numRows: 64, srcPitch: 64, dstPitch: 320, flags: 0x80000000
+ dmaIndex: 3
+src: 0x8031ad00, dst, 0x00082f40, rowsize: 64, numRows: 64, srcPitch: 320, dstPitch: 64, flags: 0x80000000
+ dmaIndex: 4
+src: 0x000c1e80, dst, 0x80120440

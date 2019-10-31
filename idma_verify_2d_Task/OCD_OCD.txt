@@ -1,0 +1,25 @@
+XOCD 14.01 2019-05-29 14:29:17
+(c) 1999-2019 Cadence Design Systems Inc. All rights reserved.
+[Debug Log 2019-10-30 14:12:47]
+Loading module "gdbstub" v2.0.0.12
+Loading module "jlink" v2.0.2.0
+Using JLINK lib v.49000
+Jlink USB Serial Number: 50127510
+Connected to Jlink Device:
+  Name:'J-Link V10 compiled Feb  2 2018 18:12:40'
+  S/N:50127510
+  Firmware: J-Link V10 compiled Feb  2 2018 18:12:40
+  Requested/Set TCK: 5000kHz/5000kHz
+Loading module "jtag" v2.0.0.20
+Loading module "xtensa" v2.0.0.48
+Loading module "traxapp" v2.0.0.8
+Loading module "trax" v2.0.1.23
+Starting thread 'GDBStub0'
+Starting thread 'TraxApp'
+traxapp: listening on port 11444
+Opened GDB socket at port 20000
+Initialize XDM driver
+ Total IR bits : 5
+  TAP[0] irwidth = 5
+ Total DR bypass bits : 1
+Warning: Target not under control. No status update performed

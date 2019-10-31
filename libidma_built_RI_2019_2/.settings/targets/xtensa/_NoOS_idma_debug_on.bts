@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<BuildTarget tool="xtensa" version="1.0">
+    <BuildSettings>
+        <BaseSettings path="project">
+            <PreprocessorOptions>
+                <StringListMapOptions>
+                    <StringListMapEntry>
+                        <key>Includes</key>
+                        <value flag="-I" inheritance="prepend">
+                            <ListEntry>${workspace_loc:libFreeRTOS/Xtensa}</ListEntry>
+                            <ListEntry>${workspace_loc:libFreeRTOS/include}</ListEntry>
+                        </value>
+                    </StringListMapEntry>
+                    <StringListMapEntry>
+                        <key>UnDefines</key>
+                        <value flag="-U" inheritance="prepend">
+                            <ListEntry>IDMA_LIB_BUILD</ListEntry>
+                        </value>
+                    </StringListMapEntry>
+                </StringListMapOptions>
+                <KeyValueListMapOptions>
+                    <KeyValueListMapEntry>
+                        <key>Defines</key>
+                        <value flag="-D" inheritance="append">
+                            <ListEntry key="IDMA_DEBUG" value=""/>
+                        </value>
+                    </KeyValueListMapEntry>
+                </KeyValueListMapOptions>
+            </PreprocessorOptions>
+            <CompilerOptions>
+                <SingleFlagMapOptions>
+                    <SingleFlagMapEntry>
+                        <key>KeepIntermediateFiles</key>
+                        <value flag="-save-temps" use="true"/>
+                    </SingleFlagMapEntry>
+                    <SingleFlagMapEntry>
+                        <key>CompilerVariant</key>
+                        <value flag="none" use="true"/>
+                    </SingleFlagMapEntry>
+                    <SingleFlagMapEntry>
+                        <key>CompilerEnableLongCall</key>
+                        <value flag="-mlongcalls" use="true"/>
+                    </SingleFlagMapEntry>
+                    <SingleFlagMapEntry>
+                        <key>OptimizeSpace</key>
+                        <value flag="-Os" use="true"/>
+                    </SingleFlagMapEntry>
+                </SingleFlagMapOptions>
+                <FlagValueMapOptions>
+                    <FlagValueMapEntry>
+                        <key>Debug</key>
+                        <value level="-3" flag="-g" use="true"/>
+                    </FlagValueMapEntry>
+                    <FlagValueMapEntry>
+                        <key>Optimization</key>
+                        <value level="2" flag="-O" use="true"/>
+                    </FlagValueMapEntry>
+                </FlagValueMapOptions>
+                <StringListMapOptions>
+                    <StringListMapEntry>
+                        <key>CompilerAdditionalOptions</key>
+                        <value flag="" inheritance="append">
+                            <ListEntry>-mrename-section-.text=.idma_text</ListEntry>
+                        </value>
+                    </StringListMapEntry>
+                </StringListMapOptions>
+            </CompilerOptions>
+            <AssemblerOptions>
+                <SingleFlagMapOptions>
+                    <SingleFlagMapEntry>
+                        <key>AssemblerIncludeDebug</key>
+                        <value flag="--gdwarf-2" use="true"/>
+                    </SingleFlagMapEntry>
+                </SingleFlagMapOptions>
+                <StringListMapOptions>
+                    <StringListMapEntry>
+                        <key>CompilerOptionsforAssembler</key>
+                        <value flag="" inheritance="append">
+                            <ListEntry>-mrename-section-.text=.idma.text</ListEntry>
+                        </value>
+                    </StringListMapEntry>
+                </StringListMapOptions>
+            </AssemblerOptions>
+        </BaseSettings>
+        <OverriddenSettings>
+            <OverriddenSettingsEntry>
+                <key>idma_os.c</key>
+                <value path="idma_os.c">
+                    <PreprocessorOptions>
+                        <KeyValueListMapOptions>
+                            <KeyValueListMapEntry>
+<key>Defines</key>
+<value flag="-D" inheritance="donotinherit">
+    <ListEntry key="IDMA_DEBUG" value=""/>
+</value>
+                            </KeyValueListMapEntry>
+                        </KeyValueListMapOptions>
+                    </PreprocessorOptions>
+                </value>
+            </OverriddenSettingsEntry>
+        </OverriddenSettings>
+    </BuildSettings>
+</BuildTarget>

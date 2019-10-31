@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<xxProperties>
+<propertyGroup name="project.information">
+<version value="3.0"/>
+</propertyGroup>
+<propertyGroup name="build.property">
+<buildTarget defaultTarget="Debug"/>
+</propertyGroup>
+<propertyGroup name="build.exclusion.data">
+<buildExclusionDatas>
+<exclusionSet name="Default" selected="1">
+<excludedEntry data="/.*/bin/.*"/>
+<excludedEntry data="/.*/idma/test_task_poll\.c"/>
+</exclusionSet>
+</buildExclusionDatas>
+</propertyGroup>
+<propertyGroup name="build.auto.includes">
+<exportDirs autoConsumeDirs="true" includeDepDirs="true" mode="auto"/>
+</propertyGroup>
+<propertyGroup name="library.dependencies">
+<libraryDependencies targetMappingRule="2">
+<library config="" libProjName="libidma_built_RI_2019_2" resType="projectType">
+<targetMappings>
+<targetEntry exeTarget="Debug" libTarget="_NoOS_"/>
+</targetMappings>
+</library>
+</libraryDependencies>
+</propertyGroup>
+<propertyGroup name="build.custom.steps"/>
+</xxProperties>
