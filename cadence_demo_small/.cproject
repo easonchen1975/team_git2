@@ -24,19 +24,19 @@
 									<listOptionValue builtIn="false" value="D:/usr/xtensa/XtDevTools/install/tools/RI-2019.2-win32/XtensaTools/xtensa-elf/include"/>
 									<listOptionValue builtIn="false" value="D:/usr/xtensa/XtDevTools/install/builds/RI-2019.2-win32/vp6_fpga/xtensa-elf/include/xcc/c++"/>
 									<listOptionValue builtIn="false" value="D:/usr/xtensa/XtDevTools/install/builds/RI-2019.2-win32/vp6_fpga/xtensa-elf/include/xcc/c++/xtensa-elf"/>
-									<listOptionValue builtIn="false" value="D:/work/eclipse_pull_gitserver/git_eclipse_team/cadence_demo_small"/>
-									<listOptionValue builtIn="false" value="D:/work/eclipse_pull_gitserver/git_eclipse_team/cadence_demo_small/appFramework/inc"/>
-									<listOptionValue builtIn="false" value="D:/work/eclipse_pull_gitserver/git_eclipse_team/cadence_demo_small/idma"/>
-									<listOptionValue builtIn="false" value="D:/work/eclipse_pull_gitserver/git_eclipse_team/cadence_demo_small/idma_verify_1D_2D"/>
-									<listOptionValue builtIn="false" value="D:/work/eclipse_pull_gitserver/git_eclipse_team/TileManager/inc"/>
-									<listOptionValue builtIn="false" value="D:/work/eclipse_pull_gitserver/git_eclipse_team/libFreeRTOS_v17/include"/>
-									<listOptionValue builtIn="false" value="D:/work/eclipse_pull_gitserver/git_eclipse_team/libFreeRTOS_v17/Xtensa"/>
-									<listOptionValue builtIn="false" value="D:/work/eclipse_pull_gitserver/git_eclipse_team/libidma_built_RI_2019_2"/>
-									<listOptionValue builtIn="false" value="D:/work/eclipse_pull_gitserver/git_eclipse_team/libidma_built_RI_2019_2/tools"/>
-									<listOptionValue builtIn="false" value="&quot;D:\work\eclipse_pull_gitserver\git_eclipse_team\libidma_built_RI_2019_2&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;D:\work\eclipse_pull_gitserver\git_eclipse_team\libFreeRTOS_v17&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;D:\work\eclipse_pull_gitserver\git_eclipse_team\libFreeRTOS_v17\include&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;D:\work\eclipse_pull_gitserver\git_eclipse_team\libFreeRTOS_v17\Xtensa&quot;"/>
+									<listOptionValue builtIn="false" value="D:/work/eclipse_team_git2/team_git2/cadence_demo_small"/>
+									<listOptionValue builtIn="false" value="D:/work/eclipse_team_git2/team_git2/cadence_demo_small/appFramework/inc"/>
+									<listOptionValue builtIn="false" value="D:/work/eclipse_team_git2/team_git2/cadence_demo_small/idma"/>
+									<listOptionValue builtIn="false" value="D:/work/eclipse_team_git2/team_git2/cadence_demo_small/idma_verify_1D_2D"/>
+									<listOptionValue builtIn="false" value="D:/work/eclipse_team_git2/team_git2/TileManager/inc"/>
+									<listOptionValue builtIn="false" value="D:/work/eclipse_team_git2/team_git2/libFreeRTOS_v17/include"/>
+									<listOptionValue builtIn="false" value="D:/work/eclipse_team_git2/team_git2/libFreeRTOS_v17/Xtensa"/>
+									<listOptionValue builtIn="false" value="D:/work/eclipse_team_git2/team_git2/libidma_built_RI_2019_2"/>
+									<listOptionValue builtIn="false" value="D:/work/eclipse_team_git2/team_git2/libidma_built_RI_2019_2/tools"/>
+									<listOptionValue builtIn="false" value="&quot;D:\work\eclipse_team_git2\team_git2\libidma_built_RI_2019_2&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;D:\work\eclipse_team_git2\team_git2\libFreeRTOS_v17&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;D:\work\eclipse_team_git2\team_git2\libFreeRTOS_v17\include&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;D:\work\eclipse_team_git2\team_git2\libFreeRTOS_v17\Xtensa&quot;"/>
 								</option>
 								<option id="org.eclipse.cdt.build.core.settings.holder.symbols.1629457206" name="Symbols" superClass="org.eclipse.cdt.build.core.settings.holder.symbols" valueType="definedSymbols">
 									<listOptionValue builtIn="false" value="__CHAR_BIT__=8"/>
@@ -90,19 +90,19 @@
 									<listOptionValue builtIn="false" value="D:/usr/xtensa/XtDevTools/install/tools/RI-2019.2-win32/XtensaTools/xtensa-elf/include"/>
 									<listOptionValue builtIn="false" value="D:/usr/xtensa/XtDevTools/install/builds/RI-2019.2-win32/vp6_fpga/xtensa-elf/include/xcc/c++"/>
 									<listOptionValue builtIn="false" value="D:/usr/xtensa/XtDevTools/install/builds/RI-2019.2-win32/vp6_fpga/xtensa-elf/include/xcc/c++/xtensa-elf"/>
-									<listOptionValue builtIn="false" value="D:/work/eclipse_pull_gitserver/git_eclipse_team/cadence_demo_small"/>
-									<listOptionValue builtIn="false" value="D:/work/eclipse_pull_gitserver/git_eclipse_team/cadence_demo_small/appFramework/inc"/>
-									<listOptionValue builtIn="false" value="D:/work/eclipse_pull_gitserver/git_eclipse_team/cadence_demo_small/idma"/>
-									<listOptionValue builtIn="false" value="D:/work/eclipse_pull_gitserver/git_eclipse_team/cadence_demo_small/idma_verify_1D_2D"/>
-									<listOptionValue builtIn="false" value="D:/work/eclipse_pull_gitserver/git_eclipse_team/TileManager/inc"/>
-									<listOptionValue builtIn="false" value="D:/work/eclipse_pull_gitserver/git_eclipse_team/libFreeRTOS_v17/include"/>
-									<listOptionValue builtIn="false" value="D:/work/eclipse_pull_gitserver/git_eclipse_team/libFreeRTOS_v17/Xtensa"/>
-									<listOptionValue builtIn="false" value="D:/work/eclipse_pull_gitserver/git_eclipse_team/libidma_built_RI_2019_2"/>
-									<listOptionValue builtIn="false" value="D:/work/eclipse_pull_gitserver/git_eclipse_team/libidma_built_RI_2019_2/tools"/>
-									<listOptionValue builtIn="false" value="&quot;D:\work\eclipse_pull_gitserver\git_eclipse_team\libidma_built_RI_2019_2&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;D:\work\eclipse_pull_gitserver\git_eclipse_team\libFreeRTOS_v17&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;D:\work\eclipse_pull_gitserver\git_eclipse_team\libFreeRTOS_v17\include&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;D:\work\eclipse_pull_gitserver\git_eclipse_team\libFreeRTOS_v17\Xtensa&quot;"/>
+									<listOptionValue builtIn="false" value="D:/work/eclipse_team_git2/team_git2/cadence_demo_small"/>
+									<listOptionValue builtIn="false" value="D:/work/eclipse_team_git2/team_git2/cadence_demo_small/appFramework/inc"/>
+									<listOptionValue builtIn="false" value="D:/work/eclipse_team_git2/team_git2/cadence_demo_small/idma"/>
+									<listOptionValue builtIn="false" value="D:/work/eclipse_team_git2/team_git2/cadence_demo_small/idma_verify_1D_2D"/>
+									<listOptionValue builtIn="false" value="D:/work/eclipse_team_git2/team_git2/TileManager/inc"/>
+									<listOptionValue builtIn="false" value="D:/work/eclipse_team_git2/team_git2/libFreeRTOS_v17/include"/>
+									<listOptionValue builtIn="false" value="D:/work/eclipse_team_git2/team_git2/libFreeRTOS_v17/Xtensa"/>
+									<listOptionValue builtIn="false" value="D:/work/eclipse_team_git2/team_git2/libidma_built_RI_2019_2"/>
+									<listOptionValue builtIn="false" value="D:/work/eclipse_team_git2/team_git2/libidma_built_RI_2019_2/tools"/>
+									<listOptionValue builtIn="false" value="&quot;D:\work\eclipse_team_git2\team_git2\libidma_built_RI_2019_2&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;D:\work\eclipse_team_git2\team_git2\libFreeRTOS_v17&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;D:\work\eclipse_team_git2\team_git2\libFreeRTOS_v17\include&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;D:\work\eclipse_team_git2\team_git2\libFreeRTOS_v17\Xtensa&quot;"/>
 								</option>
 								<option id="org.eclipse.cdt.build.core.settings.holder.symbols.970018277" name="Symbols" superClass="org.eclipse.cdt.build.core.settings.holder.symbols" valueType="definedSymbols">
 									<listOptionValue builtIn="false" value="__CHAR_BIT__=8"/>
@@ -156,19 +156,19 @@
 									<listOptionValue builtIn="false" value="D:/usr/xtensa/XtDevTools/install/tools/RI-2019.2-win32/XtensaTools/xtensa-elf/include"/>
 									<listOptionValue builtIn="false" value="D:/usr/xtensa/XtDevTools/install/builds/RI-2019.2-win32/vp6_fpga/xtensa-elf/include/xcc/c++"/>
 									<listOptionValue builtIn="false" value="D:/usr/xtensa/XtDevTools/install/builds/RI-2019.2-win32/vp6_fpga/xtensa-elf/include/xcc/c++/xtensa-elf"/>
-									<listOptionValue builtIn="false" value="D:/work/eclipse_pull_gitserver/git_eclipse_team/cadence_demo_small"/>
-									<listOptionValue builtIn="false" value="D:/work/eclipse_pull_gitserver/git_eclipse_team/cadence_demo_small/appFramework/inc"/>
-									<listOptionValue builtIn="false" value="D:/work/eclipse_pull_gitserver/git_eclipse_team/cadence_demo_small/idma"/>
-									<listOptionValue builtIn="false" value="D:/work/eclipse_pull_gitserver/git_eclipse_team/cadence_demo_small/idma_verify_1D_2D"/>
-									<listOptionValue builtIn="false" value="D:/work/eclipse_pull_gitserver/git_eclipse_team/TileManager/inc"/>
-									<listOptionValue builtIn="false" value="D:/work/eclipse_pull_gitserver/git_eclipse_team/libFreeRTOS_v17/include"/>
-									<listOptionValue builtIn="false" value="D:/work/eclipse_pull_gitserver/git_eclipse_team/libFreeRTOS_v17/Xtensa"/>
-									<listOptionValue builtIn="false" value="D:/work/eclipse_pull_gitserver/git_eclipse_team/libidma_built_RI_2019_2"/>
-									<listOptionValue builtIn="false" value="D:/work/eclipse_pull_gitserver/git_eclipse_team/libidma_built_RI_2019_2/tools"/>
-									<listOptionValue builtIn="false" value="&quot;D:\work\eclipse_pull_gitserver\git_eclipse_team\libidma_built_RI_2019_2&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;D:\work\eclipse_pull_gitserver\git_eclipse_team\libFreeRTOS_v17&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;D:\work\eclipse_pull_gitserver\git_eclipse_team\libFreeRTOS_v17\include&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;D:\work\eclipse_pull_gitserver\git_eclipse_team\libFreeRTOS_v17\Xtensa&quot;"/>
+									<listOptionValue builtIn="false" value="D:/work/eclipse_team_git2/team_git2/cadence_demo_small"/>
+									<listOptionValue builtIn="false" value="D:/work/eclipse_team_git2/team_git2/cadence_demo_small/appFramework/inc"/>
+									<listOptionValue builtIn="false" value="D:/work/eclipse_team_git2/team_git2/cadence_demo_small/idma"/>
+									<listOptionValue builtIn="false" value="D:/work/eclipse_team_git2/team_git2/cadence_demo_small/idma_verify_1D_2D"/>
+									<listOptionValue builtIn="false" value="D:/work/eclipse_team_git2/team_git2/TileManager/inc"/>
+									<listOptionValue builtIn="false" value="D:/work/eclipse_team_git2/team_git2/libFreeRTOS_v17/include"/>
+									<listOptionValue builtIn="false" value="D:/work/eclipse_team_git2/team_git2/libFreeRTOS_v17/Xtensa"/>
+									<listOptionValue builtIn="false" value="D:/work/eclipse_team_git2/team_git2/libidma_built_RI_2019_2"/>
+									<listOptionValue builtIn="false" value="D:/work/eclipse_team_git2/team_git2/libidma_built_RI_2019_2/tools"/>
+									<listOptionValue builtIn="false" value="&quot;D:\work\eclipse_team_git2\team_git2\libidma_built_RI_2019_2&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;D:\work\eclipse_team_git2\team_git2\libFreeRTOS_v17&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;D:\work\eclipse_team_git2\team_git2\libFreeRTOS_v17\include&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;D:\work\eclipse_team_git2\team_git2\libFreeRTOS_v17\Xtensa&quot;"/>
 								</option>
 								<option id="org.eclipse.cdt.build.core.settings.holder.symbols.582370468" name="Symbols" superClass="org.eclipse.cdt.build.core.settings.holder.symbols" valueType="definedSymbols">
 									<listOptionValue builtIn="false" value="__CHAR_BIT__=8"/>

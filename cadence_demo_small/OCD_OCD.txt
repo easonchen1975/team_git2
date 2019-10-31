@@ -4,7 +4,7 @@ XOCD 14.01 2019-05-29 14:29:17
 Loading module "gdbstub" v2.0.0.12
 Loading module "jlink" v2.0.2.0
 Using JLINK lib v.49000
-Jlink USB Serial Number: 50127510
+Jlink USB Serial Number: 50127510     test
 Connected to Jlink Device:
   Name:'J-Link V10 compiled Feb  2 2018 18:12:40'
   S/N:50127510
