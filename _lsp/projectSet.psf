@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <psf version="2.0">
 <provider id="org.eclipse.egit.core.GitProvider">
+<project reference="1.0,https://github.com/easonchen1975/team_git2.git,master,_lsp"/>
 <project reference="1.0,https://github.com/easonchen1975/team_git2.git,master,appFramework"/>
 <project reference="1.0,https://github.com/easonchen1975/team_git2.git,master,cache_noeffect"/>
 <project reference="1.0,https://github.com/easonchen1975/team_git2.git,master,cache_ok"/>
+<project reference="1.0,https://github.com/easonchen1975/team_git2.git,master,cadence_demo_small"/>
 <project reference="1.0,https://github.com/easonchen1975/team_git2.git,master,idma_rtlsim"/>
 <project reference="1.0,https://github.com/easonchen1975/team_git2.git,master,idma_verify_1d"/>
 <project reference="1.0,https://github.com/easonchen1975/team_git2.git,master,idma_verify_2d_Task"/>
@@ -13,20 +15,22 @@
 <project reference="1.0,https://github.com/easonchen1975/team_git2.git,master,rtos_time_verify"/>
 <project reference="1.0,https://github.com/easonchen1975/team_git2.git,master,TileManager"/>
 </provider>
+<workingSets editPageId="org.eclipse.ui.resourceWorkingSetPage" id="1572493269870_3" label="verifycation" name="verifycation">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/_lsp" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/appFramework" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/cache_noeffect" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/cache_ok" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/cadence_demo_small" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/idma_rtlsim" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/idma_verify_1d" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/idma_verify_2d_Task" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rtos_time_verify" type="4"/>
+</workingSets>
 <workingSets editPageId="org.eclipse.ui.resourceWorkingSetPage" id="1572493472406_6" label="Lib" name="Lib">
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/TileManager" type="4"/>
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/idma_verify_1d" type="4"/>
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/libFreeRTOS" type="4"/>
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/libFreeRTOS_v17" type="4"/>
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/libidma_built_RI_2019_2" type="4"/>
-</workingSets>
-<workingSets editPageId="org.eclipse.ui.resourceWorkingSetPage" id="1572493269870_3" label="verifycation" name="verifycation">
-<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/appFramework" type="4"/>
-<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/cache_noeffect" type="4"/>
-<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/cache_ok" type="4"/>
-<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/idma_rtlsim" type="4"/>
-<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/idma_verify_1d" type="4"/>
-<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/idma_verify_2d_Task" type="4"/>
-<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rtos_time_verify" type="4"/>
 </workingSets>
 </psf>
