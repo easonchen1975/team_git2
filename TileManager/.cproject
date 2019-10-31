@@ -24,8 +24,8 @@
 									<listOptionValue builtIn="false" value="D:/usr/xtensa/XtDevTools/install/tools/RI-2019.2-win32/XtensaTools/xtensa-elf/include"/>
 									<listOptionValue builtIn="false" value="D:/usr/xtensa/XtDevTools/install/builds/RI-2019.2-win32/vp6_fpga/xtensa-elf/include/xcc/c++"/>
 									<listOptionValue builtIn="false" value="D:/usr/xtensa/XtDevTools/install/builds/RI-2019.2-win32/vp6_fpga/xtensa-elf/include/xcc/c++/xtensa-elf"/>
-									<listOptionValue builtIn="false" value="D:/work/eclipse_pull_gitserver/git_eclipse_team/TileManager/inc"/>
-									<listOptionValue builtIn="false" value="&quot;D:\work\eclipse_pull_gitserver\git_eclipse_team\TileManager\inc&quot;"/>
+									<listOptionValue builtIn="false" value="D:/work/eclipse_team_git2/team_git2/TileManager/inc"/>
+									<listOptionValue builtIn="false" value="&quot;D:\work\eclipse_team_git2\team_git2\TileManager\inc&quot;"/>
 								</option>
 								<option id="org.eclipse.cdt.build.core.settings.holder.symbols.64012545" name="Symbols" superClass="org.eclipse.cdt.build.core.settings.holder.symbols" valueType="definedSymbols">
 									<listOptionValue builtIn="false" value="__CHAR_BIT__=8"/>
@@ -76,8 +76,8 @@
 									<listOptionValue builtIn="false" value="D:/usr/xtensa/XtDevTools/install/tools/RI-2019.2-win32/XtensaTools/xtensa-elf/include"/>
 									<listOptionValue builtIn="false" value="D:/usr/xtensa/XtDevTools/install/builds/RI-2019.2-win32/vp6_fpga/xtensa-elf/include/xcc/c++"/>
 									<listOptionValue builtIn="false" value="D:/usr/xtensa/XtDevTools/install/builds/RI-2019.2-win32/vp6_fpga/xtensa-elf/include/xcc/c++/xtensa-elf"/>
-									<listOptionValue builtIn="false" value="D:/work/eclipse_pull_gitserver/git_eclipse_team/TileManager/inc"/>
-									<listOptionValue builtIn="false" value="&quot;D:\work\eclipse_pull_gitserver\git_eclipse_team\TileManager\inc&quot;"/>
+									<listOptionValue builtIn="false" value="D:/work/eclipse_team_git2/team_git2/TileManager/inc"/>
+									<listOptionValue builtIn="false" value="&quot;D:\work\eclipse_team_git2\team_git2\TileManager\inc&quot;"/>
 								</option>
 								<option id="org.eclipse.cdt.build.core.settings.holder.symbols.1775962242" name="Symbols" superClass="org.eclipse.cdt.build.core.settings.holder.symbols" valueType="definedSymbols">
 									<listOptionValue builtIn="false" value="__CHAR_BIT__=8"/>
@@ -128,8 +128,8 @@
 									<listOptionValue builtIn="false" value="D:/usr/xtensa/XtDevTools/install/tools/RI-2019.2-win32/XtensaTools/xtensa-elf/include"/>
 									<listOptionValue builtIn="false" value="D:/usr/xtensa/XtDevTools/install/builds/RI-2019.2-win32/vp6_fpga/xtensa-elf/include/xcc/c++"/>
 									<listOptionValue builtIn="false" value="D:/usr/xtensa/XtDevTools/install/builds/RI-2019.2-win32/vp6_fpga/xtensa-elf/include/xcc/c++/xtensa-elf"/>
-									<listOptionValue builtIn="false" value="D:/work/eclipse_pull_gitserver/git_eclipse_team/TileManager/inc"/>
-									<listOptionValue builtIn="false" value="&quot;D:\work\eclipse_pull_gitserver\git_eclipse_team\TileManager\inc&quot;"/>
+									<listOptionValue builtIn="false" value="D:/work/eclipse_team_git2/team_git2/TileManager/inc"/>
+									<listOptionValue builtIn="false" value="&quot;D:\work\eclipse_team_git2\team_git2\TileManager\inc&quot;"/>
 								</option>
 								<option id="org.eclipse.cdt.build.core.settings.holder.symbols.1253191936" name="Symbols" superClass="org.eclipse.cdt.build.core.settings.holder.symbols" valueType="definedSymbols">
 									<listOptionValue builtIn="false" value="__CHAR_BIT__=8"/>

@@ -24,10 +24,10 @@
 									<listOptionValue builtIn="false" value="D:/usr/xtensa/XtDevTools/install/tools/RI-2019.2-win32/XtensaTools/xtensa-elf/include"/>
 									<listOptionValue builtIn="false" value="D:/usr/xtensa/XtDevTools/install/builds/RI-2019.2-win32/vp6_fpga/xtensa-elf/include/xcc/c++"/>
 									<listOptionValue builtIn="false" value="D:/usr/xtensa/XtDevTools/install/builds/RI-2019.2-win32/vp6_fpga/xtensa-elf/include/xcc/c++/xtensa-elf"/>
-									<listOptionValue builtIn="false" value="D:/work/eclipse_pull_gitserver/git_eclipse_team/libidma_built_RI_2019_2"/>
-									<listOptionValue builtIn="false" value="D:/work/eclipse_pull_gitserver/git_eclipse_team/libidma_built_RI_2019_2/tools"/>
-									<listOptionValue builtIn="false" value="&quot;D:\work\eclipse_pull_gitserver\git_eclipse_team\libFreeRTOS\Xtensa&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;D:\work\eclipse_pull_gitserver\git_eclipse_team\libFreeRTOS\include&quot;"/>
+									<listOptionValue builtIn="false" value="D:/work/eclipse_team_git2/team_git2/libidma_built_RI_2019_2"/>
+									<listOptionValue builtIn="false" value="D:/work/eclipse_team_git2/team_git2/libidma_built_RI_2019_2/tools"/>
+									<listOptionValue builtIn="false" value="&quot;D:\work\eclipse_team_git2\team_git2\libFreeRTOS_v17\include&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;D:\work\eclipse_team_git2\team_git2\libFreeRTOS_v17\Xtensa&quot;"/>
 								</option>
 								<option id="org.eclipse.cdt.build.core.settings.holder.symbols.558564913" name="Symbols" superClass="org.eclipse.cdt.build.core.settings.holder.symbols" valueType="definedSymbols">
 									<listOptionValue builtIn="false" value="__CHAR_BIT__=8"/>
@@ -67,6 +67,8 @@
 									<listOptionValue builtIn="false" value="__STDC__=1"/>
 									<listOptionValue builtIn="false" value="__PTRDIFF_TYPE__=int"/>
 									<listOptionValue builtIn="false" value="__GNUC_GNU_INLINE__=1"/>
+									<listOptionValue builtIn="false" value="_FREERTOS_=1"/>
+									<listOptionValue builtIn="false" value="_RTOS_VER_=17"/>
 								</option>
 								<inputType id="org.eclipse.cdt.build.core.settings.holder.inType.369515906" languageId="org.eclipse.cdt.core.assembly" languageName="Assembly" sourceContentType="org.eclipse.cdt.core.asmSource" superClass="org.eclipse.cdt.build.core.settings.holder.inType"/>
 							</tool>
@@ -78,10 +80,10 @@
 									<listOptionValue builtIn="false" value="D:/usr/xtensa/XtDevTools/install/tools/RI-2019.2-win32/XtensaTools/xtensa-elf/include"/>
 									<listOptionValue builtIn="false" value="D:/usr/xtensa/XtDevTools/install/builds/RI-2019.2-win32/vp6_fpga/xtensa-elf/include/xcc/c++"/>
 									<listOptionValue builtIn="false" value="D:/usr/xtensa/XtDevTools/install/builds/RI-2019.2-win32/vp6_fpga/xtensa-elf/include/xcc/c++/xtensa-elf"/>
-									<listOptionValue builtIn="false" value="D:/work/eclipse_pull_gitserver/git_eclipse_team/libidma_built_RI_2019_2"/>
-									<listOptionValue builtIn="false" value="D:/work/eclipse_pull_gitserver/git_eclipse_team/libidma_built_RI_2019_2/tools"/>
-									<listOptionValue builtIn="false" value="&quot;D:\work\eclipse_pull_gitserver\git_eclipse_team\libFreeRTOS\Xtensa&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;D:\work\eclipse_pull_gitserver\git_eclipse_team\libFreeRTOS\include&quot;"/>
+									<listOptionValue builtIn="false" value="D:/work/eclipse_team_git2/team_git2/libidma_built_RI_2019_2"/>
+									<listOptionValue builtIn="false" value="D:/work/eclipse_team_git2/team_git2/libidma_built_RI_2019_2/tools"/>
+									<listOptionValue builtIn="false" value="&quot;D:\work\eclipse_team_git2\team_git2\libFreeRTOS_v17\include&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;D:\work\eclipse_team_git2\team_git2\libFreeRTOS_v17\Xtensa&quot;"/>
 								</option>
 								<option id="org.eclipse.cdt.build.core.settings.holder.symbols.1688579826" name="Symbols" superClass="org.eclipse.cdt.build.core.settings.holder.symbols" valueType="definedSymbols">
 									<listOptionValue builtIn="false" value="__CHAR_BIT__=8"/>
@@ -121,6 +123,8 @@
 									<listOptionValue builtIn="false" value="__STDC__=1"/>
 									<listOptionValue builtIn="false" value="__PTRDIFF_TYPE__=int"/>
 									<listOptionValue builtIn="false" value="__GNUC_GNU_INLINE__=1"/>
+									<listOptionValue builtIn="false" value="_FREERTOS_=1"/>
+									<listOptionValue builtIn="false" value="_RTOS_VER_=17"/>
 								</option>
 								<inputType id="org.eclipse.cdt.build.core.settings.holder.inType.747375816" languageId="org.eclipse.cdt.core.g++" languageName="GNU C++" sourceContentType="org.eclipse.cdt.core.cxxSource,org.eclipse.cdt.core.cxxHeader" superClass="org.eclipse.cdt.build.core.settings.holder.inType"/>
 							</tool>
@@ -132,10 +136,10 @@
 									<listOptionValue builtIn="false" value="D:/usr/xtensa/XtDevTools/install/tools/RI-2019.2-win32/XtensaTools/xtensa-elf/include"/>
 									<listOptionValue builtIn="false" value="D:/usr/xtensa/XtDevTools/install/builds/RI-2019.2-win32/vp6_fpga/xtensa-elf/include/xcc/c++"/>
 									<listOptionValue builtIn="false" value="D:/usr/xtensa/XtDevTools/install/builds/RI-2019.2-win32/vp6_fpga/xtensa-elf/include/xcc/c++/xtensa-elf"/>
-									<listOptionValue builtIn="false" value="D:/work/eclipse_pull_gitserver/git_eclipse_team/libidma_built_RI_2019_2"/>
-									<listOptionValue builtIn="false" value="D:/work/eclipse_pull_gitserver/git_eclipse_team/libidma_built_RI_2019_2/tools"/>
-									<listOptionValue builtIn="false" value="&quot;D:\work\eclipse_pull_gitserver\git_eclipse_team\libFreeRTOS\Xtensa&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;D:\work\eclipse_pull_gitserver\git_eclipse_team\libFreeRTOS\include&quot;"/>
+									<listOptionValue builtIn="false" value="D:/work/eclipse_team_git2/team_git2/libidma_built_RI_2019_2"/>
+									<listOptionValue builtIn="false" value="D:/work/eclipse_team_git2/team_git2/libidma_built_RI_2019_2/tools"/>
+									<listOptionValue builtIn="false" value="&quot;D:\work\eclipse_team_git2\team_git2\libFreeRTOS_v17\include&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;D:\work\eclipse_team_git2\team_git2\libFreeRTOS_v17\Xtensa&quot;"/>
 								</option>
 								<option id="org.eclipse.cdt.build.core.settings.holder.symbols.2012257073" name="Symbols" superClass="org.eclipse.cdt.build.core.settings.holder.symbols" valueType="definedSymbols">
 									<listOptionValue builtIn="false" value="__CHAR_BIT__=8"/>
@@ -175,6 +179,8 @@
 									<listOptionValue builtIn="false" value="__STDC__=1"/>
 									<listOptionValue builtIn="false" value="__PTRDIFF_TYPE__=int"/>
 									<listOptionValue builtIn="false" value="__GNUC_GNU_INLINE__=1"/>
+									<listOptionValue builtIn="false" value="_FREERTOS_=1"/>
+									<listOptionValue builtIn="false" value="_RTOS_VER_=17"/>
 								</option>
 								<inputType id="org.eclipse.cdt.build.core.settings.holder.inType.625579184" languageId="org.eclipse.cdt.core.gcc" languageName="GNU C" sourceContentType="org.eclipse.cdt.core.cSource,org.eclipse.cdt.core.cHeader" superClass="org.eclipse.cdt.build.core.settings.holder.inType"/>
 							</tool>
@@ -220,6 +226,8 @@
 								<listOptionValue builtIn="false" value="__STDC__=1"/>
 								<listOptionValue builtIn="false" value="__PTRDIFF_TYPE__=int"/>
 								<listOptionValue builtIn="false" value="__GNUC_GNU_INLINE__=1"/>
+								<listOptionValue builtIn="false" value="_FREERTOS_=1"/>
+								<listOptionValue builtIn="false" value="_RTOS_VER_=17"/>
 								<listOptionValue builtIn="false" value="IDMA_DEBUG=1"/>
 							</option>
 							<option id="org.eclipse.cdt.build.core.settings.holder.incpaths.1033540461" name="Include Paths" superClass="org.eclipse.cdt.build.core.settings.holder.incpaths" valueType="includePath">
@@ -229,10 +237,11 @@
 								<listOptionValue builtIn="false" value="D:/usr/xtensa/XtDevTools/install/tools/RI-2019.2-win32/XtensaTools/xtensa-elf/include"/>
 								<listOptionValue builtIn="false" value="D:/usr/xtensa/XtDevTools/install/builds/RI-2019.2-win32/vp6_fpga/xtensa-elf/include/xcc/c++"/>
 								<listOptionValue builtIn="false" value="D:/usr/xtensa/XtDevTools/install/builds/RI-2019.2-win32/vp6_fpga/xtensa-elf/include/xcc/c++/xtensa-elf"/>
-								<listOptionValue builtIn="false" value="D:/work/eclipse_pull_gitserver/git_eclipse_team/libidma_built_RI_2019_2"/>
-								<listOptionValue builtIn="false" value="D:/work/eclipse_pull_gitserver/git_eclipse_team/libidma_built_RI_2019_2/tools"/>
-								<listOptionValue builtIn="false" value="&quot;D:\work\eclipse_pull_gitserver\git_eclipse_team\libFreeRTOS\Xtensa&quot;"/>
-								<listOptionValue builtIn="false" value="&quot;D:\work\eclipse_pull_gitserver\git_eclipse_team\libFreeRTOS\include&quot;"/>
+								<listOptionValue builtIn="false" value="D:/work/eclipse_team_git2/team_git2/libidma_built_RI_2019_2"/>
+								<listOptionValue builtIn="false" value="D:/work/eclipse_team_git2/team_git2/libidma_built_RI_2019_2/tools"/>
+								<listOptionValue builtIn="false" value="&quot;../${workspace_loc:libFreeRTOS_v1_7\include}&quot;"/>
+								<listOptionValue builtIn="false" value="&quot;D:\work\eclipse_team_git2\team_git2\libFreeRTOS_v17\include&quot;"/>
+								<listOptionValue builtIn="false" value="&quot;D:\work\eclipse_team_git2\team_git2\libFreeRTOS_v17\Xtensa&quot;"/>
 							</option>
 							<inputType id="org.eclipse.cdt.build.core.settings.holder.inType.1267125245" languageId="org.eclipse.cdt.core.gcc" languageName="GNU C" sourceContentType="org.eclipse.cdt.core.cSource,org.eclipse.cdt.core.cHeader" superClass="org.eclipse.cdt.build.core.settings.holder.inType"/>
 						</tool>

@@ -18,7 +18,7 @@ export SHELL = cmd
 export PATH = D:\usr\xtensa\XtDevTools\install\tools\RI-2019.2-win32\XtensaTools\bin\;D:\usr\xtensa\XtDevTools\install\tools\RI-2019.2-win32\XtensaTools\lib\iss\;C:\Windows\system32
 
 all:
-	cmd /c "cd /D ""D:\\work\\eclipse_pull_gitserver\\git_eclipse_team\\TileManager\\bin\\vp6_fpga\\Release"" && $(MAKE) all  "
+	cmd /c "cd /D ""D:\\work\\eclipse_team_git2\\team_git2\\TileManager\\bin\\vp6_fpga\\Release"" && $(MAKE) all  "
 
 clean:
-	cmd /c "cd /D ""D:\\work\\eclipse_pull_gitserver\\git_eclipse_team\\TileManager\\bin\\vp6_fpga\\Release"" && $(MAKE) clean  "
+	cmd /c "cd /D ""D:\\work\\eclipse_team_git2\\team_git2\\TileManager\\bin\\vp6_fpga\\Release"" && $(MAKE) clean  "
